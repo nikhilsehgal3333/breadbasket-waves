@@ -1,0 +1,30 @@
+[project]
+name = "breadbasket-waves"
+version = "0.1.0"
+description = "An independent study: an open re-implementation of the observed link between amplified summer wave patterns and concurrent low maize and wheat yields (Kornhuber et al. 2023), on NCEP/NCAR reanalysis, FAOSTAT and CRU TS data."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Nikhil Sehgal" }]
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "xarray>=2024.6",
+    "netCDF4>=1.7",
+    "matplotlib>=3.8",
+    "pydap>=3.5.11",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/breadbasket_waves"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

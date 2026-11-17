@@ -1,0 +1,5 @@
+test,observed_pairs,of_pairs,p_perm,p_holm
+w5_high_lt1,7,10,0.343566,1
+w5_low_gt1,7,10,0.29737,1
+w7_high_lt1,6,10,0.427457,1
+w7_low_gt1,7,10,0.286171,1

@@ -1,0 +1,28 @@
+region,code,name,first_year,last_year,role
+NA,231,United States of America,1961,2024,country
+NA,33,Canada,1961,2024,country
+WEU,68,France,1961,2024,country
+WEU,211,Switzerland,1961,2024,country
+WEU,203,Spain,1961,2024,country
+WEU,174,Portugal,1961,2024,country
+WEU,229,United Kingdom of Great Britain and Northern Ireland,1961,2024,country
+WEU,15,Belgium-Luxembourg,1961,1999,predecessor
+WEU,255,Belgium,2000,2024,country
+WEU,150,Netherlands (Kingdom of the),1961,2024,country
+WEU,79,Germany,1961,2024,country
+EEU,84,Greece,1961,2024,country
+EEU,27,Bulgaria,1961,2024,country
+EEU,183,Romania,1961,2024,country
+EEU,3,Albania,1961,2024,country
+EEU,228,USSR,1961,1991,predecessor
+EEU,248,Yugoslav SFR,1961,1991,predecessor
+EEU,185,Russian Federation,1992,2024,country
+EEU,230,Ukraine,1992,2024,country
+EEU,146,Republic of Moldova,1992,2024,country
+EEU,154,North Macedonia,1992,2024,country
+EEU,186,Serbia and Montenegro,1992,2005,predecessor
+EEU,272,Serbia,2006,2024,country
+IND,100,India,1961,2024,country
+EAS,41,"China, mainland",1961,2024,country
+EAS,141,Mongolia,1961,2024,country
+WORLD,5000,World,1961,2024,aggregate

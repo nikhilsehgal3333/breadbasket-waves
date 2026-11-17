@@ -1,0 +1,502 @@
+{
+ "1961_2014_cells_q_below_0_1": {
+  "note": "of 40 cells",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 0
+ },
+ "1961_2014_comp_w5_ALL": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -1.07
+ },
+ "1961_2014_comp_w5_EAS": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -1.85
+ },
+ "1961_2014_comp_w5_EEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -1.06
+ },
+ "1961_2014_comp_w5_IND": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -2.09
+ },
+ "1961_2014_comp_w5_NA": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -0.81
+ },
+ "1961_2014_comp_w5_WEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": 0.26
+ },
+ "1961_2014_comp_w5_WORLD": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -0.79
+ },
+ "1961_2014_comp_w7_ALL": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -2.6
+ },
+ "1961_2014_comp_w7_EAS": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": 0.99
+ },
+ "1961_2014_comp_w7_EEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -6.21
+ },
+ "1961_2014_comp_w7_IND": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": 0.61
+ },
+ "1961_2014_comp_w7_NA": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -3.32
+ },
+ "1961_2014_comp_w7_WEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": 0.41
+ },
+ "1961_2014_comp_w7_WORLD": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2014.csv",
+  "value": -1.78
+ },
+ "1961_2014_w5_high_lt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 1.0
+ },
+ "1961_2014_w5_high_lt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 7
+ },
+ "1961_2014_w5_low_gt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 1.0
+ },
+ "1961_2014_w5_low_gt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 7
+ },
+ "1961_2014_w7_NA_WEU_ci_high": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 22.724
+ },
+ "1961_2014_w7_NA_WEU_ci_low": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 1.38
+ },
+ "1961_2014_w7_NA_WEU_hits_multi": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 8
+ },
+ "1961_2014_w7_NA_WEU_hits_zero": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 2
+ },
+ "1961_2014_w7_NA_WEU_lmf": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 5.6
+ },
+ "1961_2014_w7_NA_WEU_n_multi": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 15
+ },
+ "1961_2014_w7_NA_WEU_n_zero": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 21
+ },
+ "1961_2014_w7_NA_WEU_p_exact": {
+  "note": "",
+  "source": "results/lmf_1961_2014.csv",
+  "value": 0.006
+ },
+ "1961_2014_w7_high_lt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 1.0
+ },
+ "1961_2014_w7_high_lt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 6
+ },
+ "1961_2014_w7_low_gt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 1.0
+ },
+ "1961_2014_w7_low_gt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2014.csv",
+  "value": 7
+ },
+ "1961_2024_cells_q_below_0_1": {
+  "note": "of 40 cells",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 0
+ },
+ "1961_2024_comp_w5_ALL": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -0.58
+ },
+ "1961_2024_comp_w5_EAS": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -1.44
+ },
+ "1961_2024_comp_w5_EEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -0.0
+ },
+ "1961_2024_comp_w5_IND": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -1.3
+ },
+ "1961_2024_comp_w5_NA": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -0.53
+ },
+ "1961_2024_comp_w5_WEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": 0.63
+ },
+ "1961_2024_comp_w5_WORLD": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -0.47
+ },
+ "1961_2024_comp_w7_ALL": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -2.56
+ },
+ "1961_2024_comp_w7_EAS": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": 1.06
+ },
+ "1961_2024_comp_w7_EEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -6.16
+ },
+ "1961_2024_comp_w7_IND": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": 0.47
+ },
+ "1961_2024_comp_w7_NA": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -3.85
+ },
+ "1961_2024_comp_w7_WEU": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": 0.49
+ },
+ "1961_2024_comp_w7_WORLD": {
+  "note": "% vs neighbouring years, multi-event years",
+  "source": "results/composites_1961_2024.csv",
+  "value": -1.73
+ },
+ "1961_2024_w5_high_lt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 0.93
+ },
+ "1961_2024_w5_high_lt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 7
+ },
+ "1961_2024_w5_low_gt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 0.353
+ },
+ "1961_2024_w5_low_gt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 9
+ },
+ "1961_2024_w7_NA_WEU_ci_high": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 5.655
+ },
+ "1961_2024_w7_NA_WEU_ci_low": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 0.811
+ },
+ "1961_2024_w7_NA_WEU_hits_multi": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 7
+ },
+ "1961_2024_w7_NA_WEU_hits_zero": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 5
+ },
+ "1961_2024_w7_NA_WEU_lmf": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 2.141
+ },
+ "1961_2024_w7_NA_WEU_n_multi": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 17
+ },
+ "1961_2024_w7_NA_WEU_n_zero": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 26
+ },
+ "1961_2024_w7_NA_WEU_p_exact": {
+  "note": "",
+  "source": "results/lmf_1961_2024.csv",
+  "value": 0.112
+ },
+ "1961_2024_w7_high_lt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 0.93
+ },
+ "1961_2024_w7_high_lt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 6
+ },
+ "1961_2024_w7_low_gt1_p_holm": {
+  "note": "",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 0.93
+ },
+ "1961_2024_w7_low_gt1_pairs": {
+  "note": "of 10 pairs",
+  "source": "results/primary_tests_1961_2024.csv",
+  "value": 6
+ },
+ "base_weeks": {
+  "note": "JJA weeks 1960-2014",
+  "source": "results/wave_year_counts.csv",
+  "value": 715
+ },
+ "cp1_spot_checks_matching": {
+  "note": "of 10 seeded region-years recomputed with a plain loop",
+  "source": "results/cp1_fao_spot_checks.csv",
+  "value": 10
+ },
+ "estimated_share_max": {
+  "note": "% of regional production flagged estimated or imputed, worst region-year",
+  "source": "results/regional_yields.csv",
+  "value": 55.6
+ },
+ "event_share_w5_base": {
+  "note": "% of weeks",
+  "source": "results/wave_year_counts.csv",
+  "value": 8.0
+ },
+ "event_share_w7_base": {
+  "note": "% of weeks",
+  "source": "results/wave_year_counts.csv",
+  "value": 7.8
+ },
+ "events_w5_2015_2024": {
+  "note": "wave-5 event weeks, 2015-2024",
+  "source": "results/wave_year_counts.csv",
+  "value": 6
+ },
+ "events_w5_base": {
+  "note": "wave-5 event weeks, 1960-2014",
+  "source": "results/wave_year_counts.csv",
+  "value": 57
+ },
+ "events_w7_2015_2024": {
+  "note": "wave-7 event weeks, 2015-2024",
+  "source": "results/wave_year_counts.csv",
+  "value": 8
+ },
+ "events_w7_base": {
+  "note": "wave-7 event weeks, 1960-2014",
+  "source": "results/wave_year_counts.csv",
+  "value": 56
+ },
+ "ext_years_multi_w5": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 2
+ },
+ "ext_years_multi_w7": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 2
+ },
+ "ext_years_one_w5": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 2
+ },
+ "ext_years_one_w7": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 3
+ },
+ "ext_years_zero_w5": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 6
+ },
+ "ext_years_zero_w7": {
+  "note": "",
+  "source": "results/year_audit_2015_2024.csv",
+  "value": 5
+ },
+ "fao_latest_year": {
+  "note": "",
+  "source": "results/regional_yields.csv",
+  "value": 2024
+ },
+ "fao_name_mismatches": {
+  "note": "",
+  "source": "data/regions.csv",
+  "value": 0
+ },
+ "named_w7_2003": {
+  "note": "",
+  "source": "results/wave7_named_summers.csv",
+  "value": 4
+ },
+ "named_w7_2006": {
+  "note": "",
+  "source": "results/wave7_named_summers.csv",
+  "value": 2
+ },
+ "named_w7_2015": {
+  "note": "",
+  "source": "results/wave7_named_summers.csv",
+  "value": 3
+ },
+ "named_w7_2018": {
+  "note": "",
+  "source": "results/wave7_named_summers.csv",
+  "value": 0
+ },
+ "share_june_w5": {
+  "note": "% of wave-5 event weeks (1960-2014) whose middle day is in June",
+  "source": "results/wave_weeks.csv",
+  "value": 26.3
+ },
+ "share_june_w7": {
+  "note": "% of wave-7 event weeks (1960-2014) whose middle day is in June",
+  "source": "results/wave_weeks.csv",
+  "value": 35.7
+ },
+ "share_weeks_10_13_w5": {
+  "note": "",
+  "source": "results/wave_weeks.csv",
+  "value": 35
+ },
+ "share_weeks_1_6_w7": {
+  "note": "",
+  "source": "results/wave_weeks.csv",
+  "value": 64
+ },
+ "sign_flips_after_refit": {
+  "note": "region-years before 2015 whose anomaly sign changes when the trend includes 2015-2024",
+  "source": "results/sign_flips_after_refit.csv",
+  "value": 12
+ },
+ "surface_event_months_w5": {
+  "note": "distinct JJA months containing event weeks, 1960-2014",
+  "source": "results/wave_weeks.csv",
+  "value": 49
+ },
+ "surface_event_months_w7": {
+  "note": "distinct JJA months containing event weeks, 1960-2014",
+  "source": "results/wave_weeks.csv",
+  "value": 44
+ },
+ "threshold_w5": {
+  "note": "m/s",
+  "source": "results/wave_thresholds.csv",
+  "value": 7.261
+ },
+ "threshold_w7": {
+  "note": "m/s",
+  "source": "results/wave_thresholds.csv",
+  "value": 6.527
+ },
+ "uniform_share_weeks_10_13": {
+  "note": "4 of 13 weeks",
+  "source": "derived",
+  "value": 31
+ },
+ "uniform_share_weeks_1_6": {
+  "note": "6 of 13 weeks",
+  "source": "derived",
+  "value": 46
+ },
+ "years_multi_w5_1961_2014": {
+  "note": "wave-5 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 13
+ },
+ "years_multi_w7_1961_2014": {
+  "note": "wave-7 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 15
+ },
+ "years_one_w5_1961_2014": {
+  "note": "wave-5 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 26
+ },
+ "years_one_w7_1961_2014": {
+  "note": "wave-7 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 18
+ },
+ "years_zero_w5_1961_2014": {
+  "note": "wave-5 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 15
+ },
+ "years_zero_w7_1961_2014": {
+  "note": "wave-7 year class",
+  "source": "results/wave_year_counts.csv",
+  "value": 21
+ }
+}

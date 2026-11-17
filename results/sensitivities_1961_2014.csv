@@ -1,0 +1,9 @@
+variant,w7_NA_WEU_lmf,w7_NA_WEU_counts,w5_low_gt1_pairs,w5_low_gt1_p_holm,w5_high_lt1_pairs,w5_high_lt1_p_holm,w7_low_gt1_pairs,w7_low_gt1_p_holm,w7_high_lt1_pairs,w7_high_lt1_p_holm
+china_351,5.6,8/15 vs 2/21,7,1,7,1,7,1,6,1
+eeu_from_1992,5.6,8/15 vs 2/21,5,1,7,1,7,1,6,1
+maize_only,12.6,9/15 vs 1/21,9,0.20238,8,0.322768,7,0.433557,7,0.433557
+moving_average,1.68,6/15 vs 5/21,6,1,7,1,7,1,7,1
+one_or_more_events,4.45455,14/33 vs 2/21,6,0.805919,8,0.805919,8,0.805919,7,0.805919
+primary,5.6,8/15 vs 2/21,7,1,7,1,7,1,6,1
+ssa_k1,2.45,7/15 vs 4/21,7,0.832417,7,0.832417,8,0.767523,7,0.832417
+wheat_only,2.8,4/15 vs 2/21,4,0.834217,9,0.456754,7,0.834217,6,0.834217
